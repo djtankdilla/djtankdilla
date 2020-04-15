@@ -1,4 +1,7 @@
 <script src="fb.js" type="text/javascript"></script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=546847986238732&ev=PageView&noscript=1"
+/></noscript>
 
 ![DJ Tankdilla](/photos/20200120_095033_0000.png)
 
