@@ -1,3 +1,5 @@
+<script src="script.js" type="text/JavaScript"/>
+
 ![DJ Tankdilla](/photos/20200120_095033_0000.png)
 
 ## DJ Tankdilla
