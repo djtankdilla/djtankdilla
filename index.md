@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-45238123-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-45238123-6');
+</script>
+
 <script src="fb.js" type="text/javascript"></script>
 <noscript><img height="1" width="1" style="display:none"
   src="https://www.facebook.com/tr?id=546847986238732&ev=PageView&noscript=1"
