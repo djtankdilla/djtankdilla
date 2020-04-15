@@ -1,3 +1,5 @@
+![DJ Tankdilla](/photos/20200120_095033_0000.png)
+
 ## DJ Tankdilla
 
 My mission is to revive the old gospel classics and introduce them to a new crowd and new generation.
@@ -10,6 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+```
 
 # Header 1
 ## Header 2
@@ -24,10 +27,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/djtankdilla/djtankdilla/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
