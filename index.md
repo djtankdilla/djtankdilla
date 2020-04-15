@@ -1,4 +1,4 @@
-<script src="/assets/js/fb.js" type="text/javascript"></script>
+<script src="fb.js" type="text/javascript"></script>
 
 ![DJ Tankdilla](/photos/20200120_095033_0000.png)
 
